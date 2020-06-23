@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+
+npm-debug.log*
+
+# Project
+.env
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*

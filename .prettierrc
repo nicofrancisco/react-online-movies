@@ -1,0 +1,10 @@
+{
+  "editorconfig": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "semi": false,
+  "singleQuote": true,
+  "jsxBracketSameLine": true,
+  "arrowParens": "always",
+  "printWidth": 90
+}
