@@ -6,7 +6,7 @@
 
 ##### The basic purpose of the demo:
   - to implement a solid configuration of the React's stack.
-  - good practices such Typescript, Prettier.
+  - the use of good practices such as Typescript, Prettier.
   - to provide a good UX while keeping it simple.
 
 ##### Insights
